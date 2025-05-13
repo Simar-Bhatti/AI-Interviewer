@@ -1,3 +1,29 @@
+Prepgrid is an AI-powered mock interviewer designed to help users prepare for real-world technical and behavioral interviews. Built using **Next.js**, integrated with **Vapi** for voice communication, and **Gemini API** for AI-generated interview questions and feedback, Prepgrid provides an interactive and realistic interview experience.
+
+🔗 **Live Demo:** [https://ai-interviewer-dusky.vercel.app/](https://ai-interviewer-dusky.vercel.app/)
+
+---
+
+## 🚀 Features
+
+- 🎙️ Real-time voice interviews using Vapi
+- 🤖 AI-generated questions & feedback powered by Gemini API
+- 🧩 Built with modular Next.js architecture
+- ☁️ Deployed on Vercel for fast, serverless performance
+
+---
+
+## 🛠️ Tech Stack
+
+- **Framework:** [Next.js](https://nextjs.org/)
+- **Voice Communication:** [Vapi](https://vapi.ai/)
+- **AI Model:** [Gemini API by Google](https://deepmind.google/technologies/gemini/)
+- **Hosting:** [Vercel](https://vercel.com/)
+- **Language:** TypeScript
+
+---
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
